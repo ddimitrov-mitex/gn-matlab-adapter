@@ -1,6 +1,8 @@
 # gn-matlab-adapter
 
-GN Matlab Adapter allows GN characteristic functions and predicates to call Matlab functions. It is a Windows console application.
+Matlab Adapter is a Windows command-line tool for executing Matlab functions.
+
+Its main purpose is to allow GN characteristic functions and predicates to call Matlab functions.
 
 ## Syntax
 
